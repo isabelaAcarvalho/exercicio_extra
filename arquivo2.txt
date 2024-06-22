@@ -1,1 +1,2 @@
 Segundo arquivo novo.
+Agora editei pelo repositorio local.
